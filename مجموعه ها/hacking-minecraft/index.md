@@ -1,4 +1,4 @@
----
+---sstri
 items:
  - docker/dockercraft
  - minefold/hubot-minecraft
